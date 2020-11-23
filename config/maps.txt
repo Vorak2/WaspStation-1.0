@@ -24,6 +24,7 @@ map midwaystation
 	votable
 endmap
 map midwaystation_pod
+	disabled
 endmap
 
 map metastation
